@@ -28,8 +28,8 @@ Step 7:
 Review and Create IAM User
 
 ## OUTPUT
-### REG NUMBER: 212222110024
-### NAME:MATHESWARAN K
+### REG NUMBER: 212222100015
+### NAME: Jayavarthan P
 1. Root user:
 ![image](https://github.com/user-attachments/assets/3eba422c-b86d-45a8-b7c8-2b4778a70419)
 ![image](https://github.com/user-attachments/assets/883e7b93-01f6-49db-b021-b46e379e4da2)
